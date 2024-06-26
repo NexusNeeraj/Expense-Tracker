@@ -30,10 +30,10 @@ Welcome to the Expense Tracker App! This application allows you to track your ex
 
 ### Usage
 
-1. Start the development server:
+1. **Start the development server:**
   ```bash
   npm start
 
-2. Open your browser and navigate to http://localhost:3000.
+2. **Open your browser and navigate to http://localhost:3000**
 
-3. Use the app to add and filter your expenses.
+3. **Use the app to add and filter your expenses.**
